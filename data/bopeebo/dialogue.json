@@ -1,0 +1,54 @@
+{
+	"dialogue": [
+		{
+			"nameTag_text": "Boyfriend",
+			"sound": "bf2",
+			"speed": 0.01,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"use_box": "bubble",
+			"text": "this is a message to test skellix's new custom dialogue script."
+		},
+		{
+			"nameTag_text": "Boyfriend",
+			"sound": "bf2",
+			"speed": 0.01,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"use_box": "pixel",
+			"text": "this is a longer message to test skellix's new custom dialogue script. ashfgkajfgamygfvfumyhgeG,KYFGELIYFRGkueygf  kUJFGYJngdjagfjgyuadgfksufgkjabkvqayuefgv"
+		},
+		{
+			"nameTag_text": "Girlfriend",
+			"sound": "bf1",
+			"speed": 0.01,
+			"portrait": "gf",
+			"boxState": "middle-angry",
+			"expression": "demon",
+			"use_box": "bubble",
+			"text": "aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa"
+		},
+		{
+			"nameTag_text": "Girlfriend",
+			"sound": "bf1",
+			"speed": 0.01,
+			"portrait": "gf",
+			"boxState": "middle",
+			"expression": "confused",
+			"use_box": "bubble",
+			"text": "k that's enough testing, i think it works lol"
+		},
+		{
+			"nameTag_text": "Girlfriend",
+			"sound": "bf1",
+			"speed": 0.01,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "talk",
+			"use_box": "pixel",
+			"text": "bye!"
+		}
+	]
+}
